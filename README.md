@@ -13,6 +13,10 @@ Write your design steps here
 
 ## OUTPUT:
 include your output screenshots 
+![Output]()
+![Output]()
+![Output]()
+
 
 
 ## Result:
