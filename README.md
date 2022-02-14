@@ -13,9 +13,9 @@ Write your design steps here
 
 ## OUTPUT:
 include your output screenshots 
-![Output]()
-![Output]()
-![Output]()
+![Output](https://github.com/Saibandhavi75/wireframeproject/blob/main/web%201.PNG?raw=true)
+![Output](https://github.com/Saibandhavi75/wireframeproject/blob/main/web%202.PNG?raw=true)
+![Output](https://github.com/Saibandhavi75/wireframeproject/blob/main/web%203.PNG?raw=true)
 
 
 
